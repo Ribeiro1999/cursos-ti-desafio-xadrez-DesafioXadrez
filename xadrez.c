@@ -34,7 +34,7 @@ int main() {
 
     for (int rainha = 1; rainha <= 5; rainha++)
     {
-        printf("%d esquerda\n", rainha);
+        printf("%d esquerda \n", rainha);
     }
     
     // Nível Aventureiro - Movimentação do Cavalo
